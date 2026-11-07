@@ -2,7 +2,9 @@
 
 Pick a city and a date. The app gets the weather forecast, gives it to a trained model, and shows how many ice cream cones you can expect to sell, with a short business message.
 
-**Live app:** [https://YOUR-APP-URL.streamlit.app](https://predictingicecreamsales-t92vkpwwftwdasiuoysy2y.streamlit.app)
+**Live app:** https://predictingicecreamsales-t92vkpwwftwdasiuoysy2y.streamlit.app/
+
+**GitHub repo:** https://github.com/preetham13181/predicting_icecream_sales
 
 ## What's new in this version
 
@@ -91,8 +93,8 @@ Keep the column names and their order (`temperature`, `is_weekend`, `precipitati
 You need Python 3.10 or newer and an internet connection for the forecast.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/preetham13181/predicting_icecream_sales.git
+cd predicting_icecream_sales
 python -m pip install -r requirements.txt
 streamlit run app.py
 ```
