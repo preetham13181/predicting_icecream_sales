@@ -2,7 +2,7 @@
 
 Pick a city and a date. The app gets the weather forecast, gives it to a trained model, and shows how many ice cream cones you can expect to sell, with a short business message.
 
-**Live app:** https://YOUR-APP-URL.streamlit.app
+**Live app:** [https://YOUR-APP-URL.streamlit.app](https://predictingicecreamsales-t92vkpwwftwdasiuoysy2y.streamlit.app)
 
 ## What's new in this version
 
